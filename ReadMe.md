@@ -8,8 +8,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## A C++ Expression Parser
 
--   After program runs in terminal you can play around with some math operations.
-
 -   Examples you can start with
 
 -   1 + 1 would equal 2
