@@ -8,7 +8,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## A C++ Expression Parser
 
--   Examples you can start with
+# Resource from https://unclechromedome.org/c++-tutorials/expression-parser/index.html#toc
+
+# Examples you can start with
 
 -   1 + 1 would equal 2
 -   5 - 2 would equal 3
@@ -16,5 +18,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 -   10 / 2 would equal 5
 -   pi() would equal 3.14159265359
 -   sqrt(25) would equal 5
-
--   Resource from https://unclechromedome.org/c++-tutorials/expression-parser/index.html#toc
