@@ -47,9 +47,30 @@ std::ostream& operator<<(std::ostream& os, const Error<N>& e)
 
 // The basic elements of our expressions.
 enum class Token {
-    Id, Number, Sin, Cos, Tan, Asin, Acos, Atan, Log, Exp,
-    Log10, Exp10, Sqrt, Int, Assign = '=', Plus = '+', Minus = '-',
-    Mul = '*', Div = '/', Mod = '%', Pow = '^', Lp = '(', Rp = ')', Eofsym = -1
+    Id, 
+    Number, 
+    Sin, 
+    Cos, 
+    Tan, 
+    Asin, 
+    Acos, 
+    Atan, 
+    Log, 
+    Exp,
+    Log10, 
+    Exp10, 
+    Sqrt, 
+    Int, 
+    Assign = '=', 
+    Plus = '+', 
+    Minus = '-',
+    Mul = '*', 
+    Div = '/', 
+    Mod = '%', 
+    Pow = '^', 
+    Lp = '(', 
+    Rp = ')', 
+    Eofsym = -1
 };
 
 class Lexer {
