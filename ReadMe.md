@@ -8,7 +8,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # A C++ Expression Parser
 
-# Resource from https://unclechromedome.org/c++-tutorials/expression-parser/index.html#toc
+-   Resource from https://unclechromedome.org/c++-tutorials/expression-parser/index.html#toc
 
 # Examples you can start with
 
