@@ -8,15 +8,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## A C++ Expression Parser
 
-# After program runs in terminal you can play around with some math operations.
+-   After program runs in terminal you can play around with some math operations.
 
-# Examples you can start with
+-   Examples you can start with
 
-* 1 + 1 would equal 2
-* 5 - 2 would equal 3
-* 2 * 5 would equal 10
-* 10 / 2 would equal 5
-* pi() would equal 3.14159265359
-* sqrt(25) would equal 5
+-   1 + 1 would equal 2
+-   5 - 2 would equal 3
+-   2 \* 5 would equal 10
+-   10 / 2 would equal 5
+-   pi() would equal 3.14159265359
+-   sqrt(25) would equal 5
 
-* Resource from https://unclechromedome.org/c++-tutorials/expression-parser/index.html#toc
+-   Resource from https://unclechromedome.org/c++-tutorials/expression-parser/index.html#toc
